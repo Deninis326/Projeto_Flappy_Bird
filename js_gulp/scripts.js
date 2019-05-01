@@ -1,0 +1,1 @@
+function moverCanos(){elementoCano=document.querySelector(".canos_01"),console.log(elementoCano.style.left)}
